@@ -22,7 +22,7 @@
 
 ## Installation
 
-`mirador-copy-window-plugin` requires an instance of Mirador 3. See the [Mirador wiki](https://github.com/ProjectMirador/mirador/wiki) for examples of embedding Mirador within an application and additional information about plugins. See the [live demo's index.js](https://github.com/ProjectMirador/mirador-copy-window-plugin/blob/main/demo/src/index.js) for an example of importing and configuring `mirador-copy-window-plugin`.
+`mirador-copy-window-plugin` requires an instance of Mirador 3. See the [Mirador wiki](https://github.com/ProjectMirador/mirador/wiki) for examples of embedding Mirador within an application and additional information about plugins. See the [live demo's index.js](https://github.com/nakamura196/mirador-copy-window-plugin/blob/main/demo/src/index.js) for an example of importing and configuring `mirador-copy-window-plugin`.
 
 <!-- 
 

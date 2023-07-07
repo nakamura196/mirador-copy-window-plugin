@@ -1,9 +1,9 @@
-import CopyWindowPlugin from './MiradorCopyWindow';
+import MiradorCopyWindowPlugin from './MiradorCopyWindow';
 
 export {
-  CopyWindowPlugin,
+  MiradorCopyWindowPlugin,
 };
 
 export default [
-  CopyWindowPlugin,
+  MiradorCopyWindowPlugin,
 ];
