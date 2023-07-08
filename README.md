@@ -6,9 +6,9 @@
 
 `mirador-copy-window-plugin` is a Mirador 3 plugin that adds copy window functions to the window options menu. <!-- A [live demo](https://mirador-download-plugin.netlify.app/) with several institutions' manifests is available for testing. -->
 
-![copy window option in menu](https://github.com/nakamura196/mirador-copy-window-plugin/assets/5351691/58ddc3d3-90e3-4c75-99a2-d5722fcdb23d)
+![copy window option in menu](https://github.com/nakamura196/mirador-copy-window-plugin/assets/5351691/cf38163f-50df-45f5-89c1-ed5abdae0985)
 
-![mirador-copy-window-options](https://github.com/nakamura196/mirador-copy-window-plugin/assets/5351691/23432a0d-3132-4cbe-8290-dadf23ed4b35)
+![mirador-copy-window-options](https://github.com/nakamura196/mirador-copy-window-plugin/assets/5351691/b399fca1-13b6-4698-ab80-05bc0d69b501)
 
 
 [build-badge]: https://img.shields.io/travis/projectmirador/mirador-copy-window-plugin/main.png?style=flat-square
