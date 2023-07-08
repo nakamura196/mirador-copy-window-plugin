@@ -1,6 +1,6 @@
 {
   "name": "mirador-copy-window-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "mirador-copy-window-plugin React component",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -53,7 +53,6 @@
     "mirador": "^3.3.0",
     "nwb": "0.25.x",
     "prop-types": "^15.8.1",
-    
     "react-dom": "16.14.0"
   },
   "author": "",
