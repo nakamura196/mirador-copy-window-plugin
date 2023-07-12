@@ -41,10 +41,6 @@ const copyWindowAction = (windowId) => (dispatch, getState) => {
   dispatch(mirador.actions.addWindow(cleanedWindow));
 };
 
-const mapStateToProps = (state) => ({
-  state,
-});
-
 const mapDispatchToProps = (dispatch, { windowId }) => ({
   copyWindow: () => dispatch(copyWindowAction(windowId)),
 });
@@ -54,5 +50,4 @@ export default {
   mode: 'add',
   component: CopyWindowComponent,
   mapDispatchToProps,
-  mapStateToProps,
 };
